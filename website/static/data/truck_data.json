@@ -1,0 +1,2216 @@
+
+[
+    {
+        
+        "Truck": "ME0146",
+        "Days": "MTWTXXS",
+        "Arrival": "0:05:00",
+        "Departure": "0:20:00",
+        "Next_Location": "SCLPP (EAST DOCKS\r\n42-46)",
+        "Activity": "Unload All OVERSIZED mail for GATEWAY WEST."
+    },
+    {
+        
+        "Truck": "MU0311",
+        "Days": "XXXXXXS",
+        "Arrival": "0:05:00",
+        "Departure": "1:28:00",
+        "Next_Location": "WEST\r\nTRANSPORTATION",
+        "Activity": "Duties as Directed"
+    },
+    {
+        
+        "Truck": "MT0118",
+        "Days": "MTWTXXS",
+        "Arrival": "0:07:00",
+        "Departure": "1:55:00",
+        "Next_Location": "COURTNEY PARK ANNEX (EAST DOCKS 226-229)",
+        "Activity": "Lift trailer for COURTNEY PARK ANNEX."
+    },
+    {
+        
+        "Truck": "MW0162",
+        "Days": "MTWTXXS",
+        "Arrival": "0:17:00",
+        "Departure": "0:37:00",
+        "Next_Location": "PORTLANDS DELIVERY CENTRE",
+        "Activity": "Load all OVERSIZE, NEIGHBOURHOOD, and\r\navailable mail for PDC."
+    },
+    {
+        
+        "Truck": "ME0147",
+        "Days": "MTWTXXS",
+        "Arrival": "0:20:00",
+        "Departure": "0:35:00",
+        "Next_Location": "EAST\r\nTRANSPORTATION",
+        "Activity": "Unload All OAKVILLE, ORANGEVILLE,\r\nGEORGETOWN, MILTON, and SEQUENCED mail for GATEWAY WEST."
+    },
+    {
+        
+        "Truck": "MS0106",
+        "Days": "XXXXXSX",
+        "Arrival": "0:27:00",
+        "Departure": "0:47:00",
+        "Next_Location": "SCLPP (EAST DOCKS 42-46)",
+        "Activity": "Load all mail for SCLPP"
+    },
+    {
+        
+        "Truck": "MW0151",
+        "Days": "MTWTFXX",
+        "Arrival": "0:27:00",
+        "Departure": "0:47:00",
+        "Next_Location": "SCLPP (SOUTH DOCKS\r\n25-30)",
+        "Activity": "Load all Bank towers, and Stn A mail for SCLPP."
+    },
+    {
+        
+        "Truck": "MT0103",
+        "Days": "XXWTFXX",
+        "Arrival": "0:42:00",
+        "Departure": "1:02:00",
+        "Next_Location": "SCLPP (SOUTH DOCKS\r\n25-30)",
+        "Activity": "Drop loaded Pubs & Ads trailer on GATEWAY WEST.\r\nMonday ONLY - Lift empty, Symcor, drop empty, and lift loaded trailer at Symcor for SCLPP. Tue-Fri - Lift loaded trailer for SCLPP."
+    },
+    {
+        
+        "Truck": "MT0103",
+        "Days": "MTXXXXX",
+        "Arrival": "0:42:00",
+        "Departure": "1:02:00",
+        "Next_Location": "SCLPP (SOUTH DOCKS 25-30)",
+        "Activity": "Drop loaded Pubs & Ads trailer on GATEWAY WEST. Monday ONLY - Lift empty, Symcor, drop empty, and lift loaded trailer at Symcor for SCLPP. Tue-Fri - Lift loaded trailer for SCLPP."
+    },
+    {
+        
+        "Truck": "MW0154",
+        "Days": "MTWTFXX",
+        "Arrival": "0:55:00",
+        "Departure": "1:15:00",
+        "Next_Location": "GATEWAY EAST DOCKS",
+        "Activity": "Load all EXPRES, LCAO PACKETS, and available mail for BOWMANVILLE, HAMPTON, PORT PERRY, and PORT HOPE."
+    },
+    {
+        
+        "Truck": "MS0105",
+        "Days": "XXXXFXX",
+        "Arrival": "1:32:00",
+        "Departure": "1:47:00",
+        "Next_Location": "GATEWAY EAST\r\nRECEIVING",
+        "Activity": "Unload All Mail for W.L.P.P.."
+    },
+    {
+        
+        "Truck": "MW0128",
+        "Days": "MTWTFXX",
+        "Arrival": "1:55:00",
+        "Departure": "2:25:00",
+        "Next_Location": "600 COMMISSIONERS",
+        "Activity": "Load all OVERSIZE, NEIGHBOURHOOD, available\r\nmail for 600 COMMISSIONERS (IDC's CM - 13, 14,\r\n15, 16, 17, 40, 41, 42) (Docks #3-10)."
+    },
+    {
+        
+        "Truck": "ME0146",
+        "Days": "MTWTXXS",
+        "Arrival": "2:10:00",
+        "Departure": "2:35:00",
+        "Next_Location": "EAST\r\nTRANSPORTATION",
+        "Activity": "Unload All ACTON DCF, ORANGEVILLE DCF, and\r\nOVERSIZED mail for GATEWAY WEST."
+    },
+    {
+        
+        "Truck": "MW0147",
+        "Days": "MTWTFXX",
+        "Arrival": "2:20:00",
+        "Departure": "2:40:00",
+        "Next_Location": "GATEWAY EAST\r\nDOCKS",
+        "Activity": "Load all OVERSIZE, NEIGHBOURHOOD, and\r\navailable mail for STOUFFVILLE & GORMLEY."
+    },
+    {
+        
+        "Truck": "MW0143",
+        "Days": "MTWTFXX",
+        "Arrival": "2:30:00",
+        "Departure": "2:50:00",
+        "Next_Location": "55 TEMPO",
+        "Activity": "Load all EXPRES, LCAO PACKETS, and available\r\nmail for TEMPO."
+    },
+    {
+        
+        "Truck": "MS0106",
+        "Days": "XXXXXSX",
+        "Arrival": "2:32:00",
+        "Departure": "2:57:00",
+        "Next_Location": "SCLPP (EAST DOCKS\r\n42-46)",
+        "Activity": "Unload all O/S SLB from Extended Draw, and load mail\r\nfor SCLPP."
+    },
+    {
+        
+        "Truck": "MW0146",
+        "Days": "MTWTFXX",
+        "Arrival": "2:35:00",
+        "Departure": "2:55:00",
+        "Next_Location": "PORTLANDS\r\nDELIVERY CENTRE",
+        "Activity": "Load all OVERSIZE, NEIGHBOURHOOD, and\r\navailable mail for PDC."
+    },
+    {
+        
+        "Truck": "MW0151",
+        "Days": "MTWTFXX",
+        "Arrival": "2:42:00",
+        "Departure": "3:17:00",
+        "Next_Location": "GATEWAY EAST\r\nDOCKS",
+        "Activity": "Unload all mail for GATEWAY WEST and load all mail\r\nfor SCLPP (Tue to Fri). Tour info for Monay."
+    },
+    {
+        
+        "Truck": "MT0118",
+        "Days": "MTWTXXS",
+        "Arrival": "2:45:00",
+        "Departure": "3:05:00",
+        "Next_Location": "COURTNEY PARK\r\nANNEX (EAST DOCKS 226-229)",
+        "Activity": "Drop trailer at GATEWAY WEST and lift trailer for\r\nCOURTNEY PARK ANNEX."
+    },
+    {
+        
+        "Truck": "MW0132",
+        "Days": "MTWTFXX",
+        "Arrival": "3:05:00",
+        "Departure": "3:25:00",
+        "Next_Location": "SCARBORO DELIVERY\r\nCENTRE + CSC",
+        "Activity": "Load all OVERSIZE, NEIGHBOURHOOD, and\r\navailable mail for SDC."
+    },
+    {
+        
+        "Truck": "ME0109",
+        "Days": "MTWTFXX",
+        "Arrival": "3:35:00",
+        "Departure": "3:55:00",
+        "Next_Location": "600 COMMISSIONERS",
+        "Activity": "Load all OVERSIZE, NEIGHBOURHOOD, and\r\navailable mail for 600 COMMISSIONERS."
+    },
+    {
+        
+        "Truck": "MW0127",
+        "Days": "MTWTFXX",
+        "Arrival": "3:35:00",
+        "Departure": "3:55:00",
+        "Next_Location": "600 COMMISSIONERS",
+        "Activity": "Load all NEIGHBOURHOOD, and available mail for\r\n600 COMMISSIONERS."
+    },
+    {
+        
+        "Truck": "MT0118",
+        "Days": "MTWTXXS",
+        "Arrival": "3:55:00",
+        "Departure": "4:32:00",
+        "Next_Location": "COURTNEY PARK\r\nANNEX (EAST DOCKS 226-229)\r\n",
+        "Activity": "Drop trailer at GATEWAY WEST and lift trailer for\r\nCOURTNEY PARK ANNEX.\r\n"
+    },
+    {
+        
+        "Truck": "MT0111",
+        "Days": "MTWTXXX",
+        "Arrival": "3:55:00",
+        "Departure": "4:15:00",
+        "Next_Location": "WEST TRANSPORTATION",
+        "Activity": "Drop trailer for GATEWAY WEST"
+    },
+    {
+        
+        "Truck": "ME0113",
+        "Days": "MTWTFXX",
+        "Arrival": "3:55:00",
+        "Departure": "4:15:00",
+        "Next_Location": "WICKSTEED TORONTO DELIVERY FACILITY",
+        "Activity": "Load all NEIGHBOURHOOD, and available mail for WICKSTEED.."
+    },
+    {
+        
+        "Truck": "ME0135",
+        "Days": "MTWTFXX",
+        "Arrival": "4:30:00",
+        "Departure": "4:50:00",
+        "Next_Location": "YORK DIST CENTRE #1",
+        "Activity": "Load all mail for BOWMANVILLE, HAMPTON, PORT\r\nPERRY, and PORT HOPE."
+    },
+    {
+        
+        "Truck": "MS0106",
+        "Days": "XXXXXSX",
+        "Arrival": "4:32:00",
+        "Departure": "4:47:00",
+        "Next_Location": "SCLPP (EAST DOCKS\r\n42-46)",
+        "Activity": "Unload All Mail for T.W.P.P.."
+    },
+    {
+        
+        "Truck": "MW0133",
+        "Days": "MTWTFXX",
+        "Arrival": "4:40:00",
+        "Departure": "5:00:00",
+        "Next_Location": "TORONTO WEST\r\nDELIVERY CENTRE",
+        "Activity": "Load all OVERSIZE, and available mail for TWDC."
+    },
+    {
+        
+        "Truck": "MW0129",
+        "Days": "MTWTFXX",
+        "Arrival": "4:45:00",
+        "Departure": "5:05:00",
+        "Next_Location": "600 COMMISSIONERS",
+        "Activity": "Load all OVERSIZE, NEIGHBOURHOOD, EXPRES,\r\nLCAO PACKETS, and available mail for 600 COMMISSIONERS."
+    },
+    {
+        
+        "Truck": "MW0110",
+        "Days": "MTWTFXX",
+        "Arrival": "4:55:00",
+        "Departure": "5:15:00",
+        "Next_Location": "TORONTO WEST\r\nDELIVERY CENTRE",
+        "Activity": "Load all NEIGHBOURHOOD, and available mail for\r\nTWDC."
+    },
+    {
+        
+        "Truck": "MW0136",
+        "Days": "MTWTFXX",
+        "Arrival": "5:00:00",
+        "Departure": "5:20:00",
+        "Next_Location": "WICKSTEED TORONTO\r\nDELIVERY FACILITY",
+        "Activity": "Load all OVERSIZE, and available mail for\r\nWICKSTEED."
+    },
+    {
+        
+        "Truck": "MW0147",
+        "Days": "MTWTFXX",
+        "Arrival": "5:00:00",
+        "Departure": "5:35:00",
+        "Next_Location": "GATEWAY WEST",
+        "Activity": "Duties as Directed"
+    },
+    {
+        
+        "Truck": "MW0108",
+        "Days": "MTWTFXX",
+        "Arrival": "5:05:00",
+        "Departure": "5:25:00",
+        "Next_Location": "GATEWAY EAST\r\nDESPATCH",
+        "Activity": "Load all OVERSIZE, NEIGHBOURHOOD, and\r\navailable mail for BDC."
+    },
+    {
+        
+        "Truck": "MW0162",
+        "Days": "MTWTXXS",
+        "Arrival": "5:12:00",
+        "Departure": "5:42:00",
+        "Next_Location": "PORTLANDS\r\nDELIVERY CENTRE",
+        "Activity": "Load all OVERSIZE, NEIGHBOURHOOD, and\r\navailable mail for PDC."
+    },
+    {
+        
+        "Truck": "MW0148",
+        "Days": "MTWTFXX",
+        "Arrival": "5:17:00",
+        "Departure": "5:37:00",
+        "Next_Location": "GATEWAY EAST\r\nDOCKS",
+        "Activity": "Load all OVERSIZE, NEIGHBOURHOOD, and\r\navailable mail for KLEINBURG."
+    },
+    {
+        
+        "Truck": "MW0137",
+        "Days": "MTWTFXX",
+        "Arrival": "5:20:00",
+        "Departure": "5:40:00",
+        "Next_Location": "GATEWAY EAST\r\nDESPATCH",
+        "Activity": "Load all NEIGHBOURHOOD, and available mail for\r\nNEW MARKHAM."
+    },
+    {
+        
+        "Truck": "MW0106",
+        "Days": "MTWTXXS",
+        "Arrival": "5:20:00",
+        "Departure": "5:50:00",
+        "Next_Location": "BRAMPTON DEL\r\nCENTRE + CSC",
+        "Activity": "Load all OVERSIZE, NEIGHBOURHOOD, and\r\navailable mail for BDC."
+    },
+    {
+        
+        "Truck": "MT0118",
+        "Days": "MTWTXXS",
+        "Arrival": "5:22:00",
+        "Departure": "5:40:00",
+        "Next_Location": "WEST\r\nTRANSPORTATION",
+        "Activity": "Drop trailer for GATEWAY WEST."
+    },
+    {
+        
+        "Truck": "MW0107",
+        "Days": "MTWTFXX",
+        "Arrival": "5:25:00",
+        "Departure": "5:45:00",
+        "Next_Location": "BRAMPTON DEL CENTRE + CSC",
+        "Activity": "Load all OVERSIZE, NEIGHBOURHOOD, and\r\navailable mail for BDC."
+    },
+    {
+        
+        "Truck": "MW0206",
+        "Days": "MTWTFXX",
+        "Arrival": "5:25:00",
+        "Departure": "5:45:00",
+        "Next_Location": "GATEWAY EAST\r\nDOCKS",
+        "Activity": "Load all mail for Bank Towers, 1ST CANADIAN\r\nPLACE, and COMMERCE COURT."
+    },
+    {
+        
+        "Truck": "MT0236",
+        "Days": "MTWTFXX",
+        "Arrival": "5:27:00",
+        "Departure": "5:42:00",
+        "Next_Location": "COURTNEY PARK\r\nANNEX (EAST DOCKS 226-229)",
+        "Activity": "Lift trailer for COURTNEY PARK ANNEX."
+    },
+    {
+        
+        "Truck": "MW0155",
+        "Days": "MTWTFXX",
+        "Arrival": "5:30:00",
+        "Departure": "5:50:00",
+        "Next_Location": "GATEWAY EAST DOCKS",
+        "Activity": "Load all mail for TORONTO DEL CENTRE.."
+    },
+    {
+        
+        "Truck": "ME0134",
+        "Days": "MTWTFXX",
+        "Arrival": "5:30:00",
+        "Departure": "5:50:00",
+        "Next_Location": "TORONTO WEST\r\nDELIVERY CENTRE",
+        "Activity": "Load all OVERSIZE, and available mail for TWDC."
+    },
+    {
+        
+        "Truck": "MW0147",
+        "Days": "MTWTFXX",
+        "Arrival": "5:35:00",
+        "Departure": "5:55:00",
+        "Next_Location": "GATEWAY EAST\r\nDOCKS",
+        "Activity": "Load all OVERSIZE, NEIGHBOURHOOD, and\r\navailable mail STOUFFVILLE & GORMLEY."
+    },
+    {
+        
+        "Truck": "MW0160",
+        "Days": "MTWTFXX",
+        "Arrival": "5:35:00",
+        "Departure": "5:55:00",
+        "Next_Location": "GATEWAY EAST\r\nDOCKS",
+        "Activity": "Load all EXPRES, LCAO PACKETS, and available\r\nmail for AJAX."
+    },
+    {
+        
+        "Truck": "MW0118",
+        "Days": "MTWTFXX",
+        "Arrival": "5:35:00",
+        "Departure": "5:55:00",
+        "Next_Location": "GATEWAY EAST\r\nDOCKS",
+        "Activity": "Load all OVERSIZE, NEIGHBOURHOOD, and\r\navailable mail for PORT CREDIT."
+    },
+    {
+        
+        "Truck": "MW0112",
+        "Days": "MTWTFXX",
+        "Arrival": "5:40:00",
+        "Departure": "6:00:00",
+        "Next_Location": "TORONTO WEST\r\nDELIVERY CENTRE",
+        "Activity": "Load all OVERSIZE, NEIGHBOURHOOD, and\r\navailable mail for TWDC."
+    },
+    {
+        
+        "Truck": "MW0145",
+        "Days": "MTWTFXX",
+        "Arrival": "5:45:00",
+        "Departure": "6:05:00",
+        "Next_Location": "GATEWAY EAST\r\nDOCKS",
+        "Activity": "Load all OVERSIZE, NEIGHBOURHOOD, and\r\navailable mail for PICKERING."
+    },
+    {
+        
+        "Truck": "MW0113",
+        "Days": "MTWTFXX",
+        "Arrival": "5:50:00",
+        "Departure": "6:10:00",
+        "Next_Location": "GATEWAY EAST\r\nDOCKS",
+        "Activity": "Load All OVERSIZE, NEIGHBOURHOOD, and\r\navailable mail for MISS #3."
+    },
+    {
+        
+        "Truck": "MW0127",
+        "Days": "MTWTFXX",
+        "Arrival": "6:00:00",
+        "Departure": "6:20:00",
+        "Next_Location": "GATEWAY EAST\r\nDESPATCH",
+        "Activity": "Load all OVERSIZE, and available mail for 600\r\nCOMMISSIONERS."
+    },
+    {
+        
+        "Truck": "ME0122",
+        "Days": "MTWTFXX",
+        "Arrival": "6:12:00",
+        "Departure": "6:47:00",
+        "Next_Location": "WICKSTEED TORONTO\r\nDELIVERY FACILITY",
+        "Activity": "Unload all empty equipment. Load all\r\nNEIGHBOURHOOD, and available mail for WICKSTEED."
+    },
+    {
+        
+        "Truck": "MW0133",
+        "Days": "MTWTFXX",
+        "Arrival": "6:15:00",
+        "Departure": "6:35:00",
+        "Next_Location": "SCARBORO DELIVERY CENTRE + CSC",
+        "Activity": "Load all NEIGHBOURHOOD, EXPRES, LCAO\r\nPACKETS, and available mail for SDC."
+    },
+    {
+        
+        "Truck": "MW0132",
+        "Days": "MTWTFXX",
+        "Arrival": "6:25:00",
+        "Departure": "6:55:00",
+        "Next_Location": "SCARBORO DELIVERY\r\nCENTRE + CSC",
+        "Activity": "Load all OVERSIZE, and available mail for SDC."
+    },
+    {
+        
+        "Truck": "MW0139",
+        "Days": "MTWTFXX",
+        "Arrival": "6:30:00",
+        "Departure": "6:50:00",
+        "Next_Location": "UNIONVILLE DEPOT",
+        "Activity": "Load all OVERSIZE, NEIGHBOURHOOD, and\r\navailable mail for UNIONVILLE."
+    },
+    {
+        
+        "Truck": "MW0151",
+        "Days": "MTWTFXX",
+        "Arrival": "6:37:00",
+        "Departure": "7:02:00",
+        "Next_Location": "GATEWAY EAST\r\nRECEIVING",
+        "Activity": "Unload All mail for GATEWAY WEST."
+    },
+    {
+        
+        "Truck": "MS0214",
+        "Days": "XXXXXSX",
+        "Arrival": "6:52:00",
+        "Departure": "7:12:00",
+        "Next_Location": "WICKSTEED TORONTO\r\nDELIVERY FACILITY",
+        "Activity": "Load all mail for WICKSTEED."
+    },
+    {
+        
+        "Truck": "MW0116",
+        "Days": "MTWTFXX",
+        "Arrival": "6:55:00",
+        "Departure": "7:30:00",
+        "Next_Location": "20 Min Paid Break",
+        "Activity": "Unload all equipment. Load all OVERSIZE,\r\nNEIGHBOURHOOD, EXPRES, LCAO PACKETS, and\r\navailable mail for 600 COMMISSIONERS."
+    },
+    {
+        
+        "Truck": "ME0126",
+        "Days": "MTWTFXX",
+        "Arrival": "7:05:00",
+        "Departure": "7:25:00",
+        "Next_Location": "NEW MARKHAM DELIVERY DEPOT",
+        "Activity": "Load all OVERSIZE, and available mail for NEW MARKHAM."
+    },
+    {
+        
+        "Truck": "ME0201",
+        "Days": "MTWTFXX",
+        "Arrival": "7:20:00",
+        "Departure": "7:55:00",
+        "Next_Location": "SYMCOR SERVICES",
+        "Activity": "Unload all mail for GATEWAY WEST and load\r\nmachineable NEIGHBOURHOOD mail for SCLPP."
+    },
+    {
+        
+        "Truck": "MS0106",
+        "Days": "XXXXXSX",
+        "Arrival": "7:25:00",
+        "Departure": "7:45:00",
+        "Next_Location": "WEST\r\nTRANSPORTATION",
+        "Activity": "Unload All Mail for GATEWAY WEST."
+    },
+    {
+        
+        "Truck": "ME0149",
+        "Days": "MTWTFXX",
+        "Arrival": "7:35:00",
+        "Departure": "8:30:00",
+        "Next_Location": "PORT CREDIT DEL\r\nCNTR",
+        "Activity": "Load all EXPRES, LCAO PACKETS, and available\r\nmail for PORT CREDIT."
+    },
+    {
+        
+        "Truck": "MW0155",
+        "Days": "MTWTFXX",
+        "Arrival": "7:40:00",
+        "Departure": "8:40:00",
+        "Next_Location": "ETOBICOKE 'B' & 'C'\r\nDEP+CSC",
+        "Activity": "Unload all mail for GATEWAY WEST and load all\r\nEXPRES, LCAO PACKETS, and available mail for ETOBICOKE B & C."
+    },
+    {
+        
+        "Truck": "MU0213",
+        "Days": "XXXXXXS",
+        "Arrival": "7:52:00",
+        "Departure": "8:12:00",
+        "Next_Location": "UNIONVILLE DEPOT",
+        "Activity": "Load all mail for Unionville."
+    },
+    {
+        
+        "Truck": "MS0210",
+        "Days": "XXXXXSX",
+        "Arrival": "8:00:00",
+        "Departure": "8:22:00",
+        "Next_Location": "GATEWAY EAST\r\nDOCKS",
+        "Activity": "Record Start Time, Report to Supervisor, Receive Keys\r\n& Equip., Perform VSI."
+    },
+    {
+        
+        "Truck": "MW0121",
+        "Days": "MTWTFXX",
+        "Arrival": "8:15:00",
+        "Departure": "8:30:00",
+        "Next_Location": "WEST\r\nTRANSPORTATION",
+        "Activity": "Unload Equipment"
+    },
+    {
+        
+        "Truck": "MW0211",
+        "Days": "MTWTFXX",
+        "Arrival": "8:30:00",
+        "Departure": "8:50:00",
+        "Next_Location": "STOUFFVILLE STN",
+        "Activity": "Load all EXPRES, LCAO PACKETS, and available\r\nmail for KLEINBURG, GORMLEY, and STOUFFVILLE."
+    },
+    {
+        
+        "Truck": "MW0208",
+        "Days": "MTWTFXX",
+        "Arrival": "8:35:00",
+        "Departure": "8:55:00",
+        "Next_Location": "NECF",
+        "Activity": "Load all empty International Equipment for NECF\r\n(Dock #20)."
+    },
+    {
+        
+        "Truck": "MP0202",
+        "Days": "MTWTFXX",
+        "Arrival": "8:37:00",
+        "Departure": "8:47:00",
+        "Next_Location": "TOR VEX",
+        "Activity": "Unload All mail for GATEWAY WEST."
+    },
+    {
+        
+        "Truck": "MW0104",
+        "Days": "MTWTFXX",
+        "Arrival": "8:45:00",
+        "Departure": "9:00:00",
+        "Next_Location": "WEST\r\nTRANSPORTATION",
+        "Activity": "Unload All IDC's and mailroom mail for GATEWAY\r\nWEST."
+    },
+    {
+        
+        "Truck": "MW0111",
+        "Days": "MTWTFXX",
+        "Arrival": "8:55:00",
+        "Departure": "9:23:00",
+        "Next_Location": "GATEWAY WEST",
+        "Activity": "Duties as Directed"
+    },
+    {
+        
+        "Truck": "MT0110",
+        "Days": "MTWTFXX",
+        "Arrival": "8:55:00",
+        "Departure": "9:25:00",
+        "Next_Location": "ETOBICOKE DEL CENTRE + CSC",
+        "Activity": "Drop equipment trailer at GATEWAY WEST and lift empty trailer for EDC."
+    },
+    {
+        
+        "Truck": "MA0202",
+        "Days": "MTWTFXX",
+        "Arrival": "8:55:00",
+        "Departure": "9:05:00",
+        "Next_Location": "TOR VEX",
+        "Activity": "Unload all mail for WUSS."
+    },
+    {
+        
+        "Truck": "MW0128",
+        "Days": "MTWTFXX",
+        "Arrival": "8:58:00",
+        "Departure": "9:13:00",
+        "Next_Location": "WEST\r\nTRANSPORTATION",
+        "Activity": "Unload Equipment"
+    },
+    {
+        
+        "Truck": "MS0212",
+        "Days": "XXXXXSX",
+        "Arrival": "9:02:00",
+        "Departure": "9:22:00",
+        "Next_Location": "KLEINBURG",
+        "Activity": "Load all mail for Kleinburg (Docks #3-10)."
+    },
+    {
+        
+        "Truck": "MW0132",
+        "Days": "MTWTFXX",
+        "Arrival": "9:10:00",
+        "Departure": "9:25:00",
+        "Next_Location": "WEST\r\nTRANSPORTATION",
+        "Activity": "Unload Equipment"
+    },
+    {
+        
+        "Truck": "MW0148",
+        "Days": "MTWTFXX",
+        "Arrival": "9:12:00",
+        "Departure": "9:27:00",
+        "Next_Location": "WEST\r\nTRANSPORTATION",
+        "Activity": "Unload Equipment"
+    },
+    {
+        
+        "Truck": "MW0117",
+        "Days": "MTWTFXX",
+        "Arrival": "9:15:00",
+        "Departure": "9:50:00",
+        "Next_Location": "MISSISSAUGA DEL\r\nCNTR",
+        "Activity": "Unload all equipment, and load all EXPRES, LCAO\r\nPACKETS, and available mail for MDC."
+    },
+    {
+        
+        "Truck": "MS0204",
+        "Days": "XXXXXSX",
+        "Arrival": "9:22:00",
+        "Departure": "9:52:00",
+        "Next_Location": "SCARBORO DELIVERY CENTRE + CSC",
+        "Activity": "Load all Pub and Ads and any available Packets for SDC and Unionville (Docks #3-10)."
+    },
+    {
+        
+        "Truck": "MS0207",
+        "Days": "XXXXXSX",
+        "Arrival": "9:22:00",
+        "Departure": "9:47:00",
+        "Next_Location": "GATEWAY EAST\r\nDOCKS",
+        "Activity": "Unload mail for TWPP only from SCLPP and Load\r\nOVERSIZE & LETTERMAIL (YYT) for ELS."
+    },
+    {
+        
+        "Truck": "MW0111",
+        "Days": "MTWTFXX",
+        "Arrival": "9:23:00",
+        "Departure": "9:33:00",
+        "Activity": "Refuel vehicle enroute as required and Park Vehicle,\r\nReturn Key & Equip., Report Irregularities, Record Finish."
+    },
+    {
+        
+        "Truck": "MW0133",
+        "Days": "MTWTFXX",
+        "Arrival": "9:25:00",
+        "Departure": "9:40:00",
+        "Next_Location": "WEST\r\nTRANSPORTATION",
+        "Activity": "Unload Equipment"
+    },
+    {
+        
+        "Truck": "MW0127",
+        "Days": "MTWTFXX",
+        "Arrival": "9:25:00",
+        "Departure": "9:50:00",
+        "Next_Location": "PORT CREDIT DEL\r\nCNTR",
+        "Activity": "Unload Equipment"
+    },
+    {
+        
+        "Truck": "MP0204",
+        "Days": "MTWTFXX",
+        "Arrival": "9:27:00",
+        "Departure": "9:47:00",
+        "Next_Location": "BRAMPTON DEL\r\nCENTRE + CSC",
+        "Activity": "Load all EXPRES, LCAO PACKETS, and available\r\nmail. for BDC."
+    },
+    {
+        
+        "Truck": "MS0214",
+        "Days": "XXXXXSX",
+        "Arrival": "9:35:00",
+        "Departure": "9:55:00",
+        "Next_Location": "WICKSTEED TORONTO\r\nDELIVERY FACILITY",
+        "Activity": "Load all mail for WICKSTEED."
+    },
+    {
+        
+        "Truck": "MW0129",
+        "Days": "MTWTFXX",
+        "Arrival": "9:35:00",
+        "Departure": "10:00:00",
+        "Next_Location": "BULK RETURN\r\nFACILITY",
+        "Activity": "Unload Equipment"
+    },
+    {
+        
+        "Truck": "MW0146",
+        "Days": "MTWTFXX",
+        "Arrival": "9:35:00",
+        "Departure": "9:53:00",
+        "Next_Location": "WEST TRANSPORTATION",
+        "Activity": "Unload Equipment"
+    },
+    {
+        
+        "Truck": "MW0149",
+        "Days": "MTWTFXX",
+        "Arrival": "9:35:00",
+        "Departure": "9:50:00",
+        "Next_Location": "WEST TRANSPORTATION",
+        "Activity": "Unload Equipment"
+    },
+    {
+        
+        "Truck": "MW0139",
+        "Days": "MTWTFXX",
+        "Arrival": "9:40:00",
+        "Departure": "10:05:00",
+        "Next_Location": "BRAMPTON DEL\r\nCENTRE + CSC",
+        "Activity": "Unload Equipment"
+    },
+    {
+        
+        "Truck": "MW0212",
+        "Days": "MTWTFXX",
+        "Arrival": "9:45:00",
+        "Departure": "10:00:00",
+        "Next_Location": "CREDITSTONE\r\nDELIVERY CENTRE",
+        "Activity": "Unload Equipment"
+    },
+    {
+        
+        "Truck": "MS0202",
+        "Days": "XXXXXSX",
+        "Arrival": "9:47:00",
+        "Departure": "10:07:00",
+        "Next_Location": "MISSISSAUGA DEPOT\r\n#4 & #7 + CSC",
+        "Activity": "Load all Pub and Ads and any available Packets for\r\nMississauga Depot 4 & 7 (Docks #3-10)."
+    },
+    {
+        
+        "Truck": "MS0201",
+        "Days": "XXXXXSX",
+        "Arrival": "9:52:00",
+        "Departure": "10:12:00",
+        "Next_Location": "DON MILLS + TOR 'O' &\r\n'R'",
+        "Activity": "Load Pubs & Admail for DON MILLS + TOR 'O' & 'R'\r\n(Docks #3-10)."
+    },
+    {
+        
+        "Truck": "MA0202",
+        "Days": "MTWTFXX",
+        "Arrival": "9:55:00",
+        "Departure": "10:05:00",
+        "Next_Location": "TOR VEX",
+        "Activity": "Unload all mail for WUSS."
+    },
+    {
+        
+        "Truck": "MW0125",
+        "Days": "MTWTFXX",
+        "Arrival": "10:00:00",
+        "Departure": "10:25:00",
+        "Next_Location": "WEST\r\nTRANSPORTATION",
+        "Activity": "Unload Equipment"
+    },
+    {
+        
+        "Truck": "MT0212",
+        "Days": "MTWXXXX",
+        "Arrival": "10:07:00",
+        "Departure": "10:22:00",
+        "Next_Location": "SCLPP (SOUTH DOCKS\r\n25-30)",
+        "Activity": "Lift trailer with JFK mail for SCLPP."
+    },
+    {
+        
+        "Truck": "MT0212",
+        "Days": "XXXTFXX",
+        "Arrival": "10:07:00",
+        "Departure": "10:22:00",
+        "Next_Location": "SCLPP (SOUTH DOCKS\r\n25-30)",
+        "Activity": "Lift trailer with JFK mail for SCLPP."
+    },
+    {
+        
+        "Truck": "MW0155",
+        "Days": "MTWTFXX",
+        "Arrival": "10:08:00",
+        "Departure": "10:23:00",
+        "Next_Location": "WEST\r\nTRANSPORTATION",
+        "Activity": "Unload Equipment"
+    },
+    {
+        
+        "Truck": "MW0208",
+        "Days": "MTWTFXX",
+        "Arrival": "10:10:00",
+        "Departure": "10:45:00",
+        "Next_Location": "YORK DIST CENTRE #1",
+        "Activity": "Unload all equipment for GATEWAY WEST and load\r\nall NEIGHBOURHOOD mail for YDC."
+    },
+    {
+        
+        "Truck": "MS0210",
+        "Days": "XXXXXSX",
+        "Arrival": "10:12:00",
+        "Departure": "10:32:00",
+        "Next_Location": "SCLPP (SOUTH DOCKS\r\n25-30)",
+        "Activity": "Load all mail for SCLPP"
+    },
+    {
+        
+        "Truck": "MU0208",
+        "Days": "XXXXXXS",
+        "Arrival": "10:27:00",
+        "Departure": "10:47:00",
+        "Next_Location": "600 COMMISSIONERS",
+        "Activity": "Load mail for 600 Commissioners (Docks #3-10)."
+    },
+    {
+        
+        "Truck": "MW0136",
+        "Days": "MTWTFXX",
+        "Arrival": "10:35:00",
+        "Departure": "11:00:00",
+        "Next_Location": "MISSISSAUGA DEPOT\r\n#4 & #7 + CSC",
+        "Activity": "Unload Equipment"
+    },
+    {
+        
+        "Truck": "ME0101",
+        "Days": "MTWTFXX",
+        "Arrival": "10:40:00",
+        "Departure": "11:00:00",
+        "Next_Location": "WILLOWDALE DEPOT\r\n'D'",
+        "Activity": "Load all EXPRES, LCAO PACKETS, and available\r\nmail for WILLOWDALE D."
+    },
+    {
+        
+        "Truck": "MA0202",
+        "Days": "MTWTFXX",
+        "Arrival": "10:45:00",
+        "Departure": "10:55:00",
+        "Next_Location": "TOR VEX",
+        "Activity": "Unload all mail for WUSS."
+    },
+    {
+        
+        "Truck": "MS0203",
+        "Days": "XXXXXSX",
+        "Arrival": "10:52:00",
+        "Departure": "11:27:00",
+        "Next_Location": "WILLOWDALE DEPOT\r\n'D'",
+        "Activity": "Load all Pub and Ads and any available Packets for 55\r\nTEMPO, and WILLOWDALE D (Docks #3-10)."
+    },
+    {
+        
+        "Truck": "MU0213",
+        "Days": "XXXXXXS",
+        "Arrival": "10:52:00",
+        "Departure": "11:12:00",
+        "Next_Location": "CREDITSTONE\r\nDELIVERY CENTRE",
+        "Activity": "Load all mail for CDC."
+    },
+    {
+        
+        "Truck": "ME0105",
+        "Days": "MTWTFXX",
+        "Arrival": "11:00:00",
+        "Departure": "11:20:00",
+        "Next_Location": "WICKSTEED TORONTO\r\nDELIVERY FACILITY",
+        "Activity": "Load all EXPRES, LCAO PACKETS, and available\r\nmail for WICKSTEED."
+    },
+    {
+        
+        "Truck": "MP0304",
+        "Days": "MTWTFXX",
+        "Arrival": "11:00:00",
+        "Departure": "11:15:00",
+        "Next_Location": "BULK RETURN\r\nFACILITY",
+        "Activity": "Unload Equipment"
+    },
+    {
+        
+        "Truck": "MW0209",
+        "Days": "MTWTFXX",
+        "Arrival": "11:05:00",
+        "Departure": "11:30:00",
+        "Next_Location": "20 Min Paid Break",
+        "Activity": "Unload Equipment"
+    },
+    {
+        
+        "Truck": "MW0139",
+        "Days": "MTWTFXX",
+        "Arrival": "11:05:00",
+        "Departure": "11:20:00",
+        "Next_Location": "WEST\r\nTRANSPORTATION",
+        "Activity": "Unload Equipment"
+    },
+    {
+        
+        "Truck": "MS0211",
+        "Days": "XXXXXSX",
+        "Arrival": "11:07:00",
+        "Departure": "11:27:00",
+        "Next_Location": "SCARBORO DELIVERY\r\nCENTRE + CSC",
+        "Activity": "Load all Pub and Ad mail and any available Packets for\r\nSDC (Docks #3-10)."
+    },
+    {
+        
+        "Truck": "ME0203",
+        "Days": "MTWTFXX",
+        "Arrival": "11:30:00",
+        "Departure": "11:45:00",
+        "Next_Location": "CIBC",
+        "Activity": "Unload All mail for GATEWAY WEST."
+    },
+    {
+        
+        "Truck": "MA0201",
+        "Days": "MTWTFXX",
+        "Arrival": "11:42:00",
+        "Departure": "11:52:00",
+        "Next_Location": "TORONTO AMF  BLDG\r\n' E '",
+        "Activity": "Load all mail for SCLPP."
+    },
+    {
+        
+        "Truck": "MS0208",
+        "Days": "XXXXXSX",
+        "Arrival": "11:47:00",
+        "Departure": "12:17:00",
+        "Next_Location": "ETOBICOKE DEL\r\nCENTRE + CSC",
+        "Activity": "Load Pub and Ad mail & any available Packets for\r\nEtobicoke Delivery Centre (Docks #3-10)."
+    },
+    {
+        
+        "Truck": "MW0136",
+        "Days": "MTWTFXX",
+        "Arrival": "12:00:00",
+        "Departure": "12:18:00",
+        "Next_Location": "WEST\r\nTRANSPORTATION",
+        "Activity": "Unload Equipment"
+    },
+    {
+        
+        "Truck": "MS0202",
+        "Days": "XXXXXSX",
+        "Arrival": "12:02:00",
+        "Departure": "12:22:00",
+        "Next_Location": "MISSISSAUGA DEPOT #3",
+        "Activity": "Load all Pub and Ads and any available Packets for Miss. Depot 3 (Docks #3-10)."
+    },
+    {
+        
+        "Truck": "MW0214",
+        "Days": "MTWTFXX",
+        "Arrival": "12:05:00",
+        "Departure": "12:30:00",
+        "Next_Location": "SCI",
+        "Activity": "Unload all equipment, and load all mail for SCI."
+    },
+    {
+        
+        "Truck": "MW0105",
+        "Days": "MTWTFXX",
+        "Arrival": "12:05:00",
+        "Departure": "12:30:00",
+        "Next_Location": "WEST\r\nTRANSPORTATION",
+        "Activity": "Unload Equipment"
+    },
+    {
+        
+        "Truck": "MW0213",
+        "Days": "MTWTFXX",
+        "Arrival": "12:10:00",
+        "Departure": "12:25:00",
+        "Next_Location": "WEST\r\nTRANSPORTATION",
+        "Activity": "Unload Equipment"
+    },
+    {
+        
+        "Truck": "MP0203",
+        "Days": "MTWTFXX",
+        "Arrival": "12:15:00",
+        "Departure": "12:30:00",
+        "Next_Location": "WEST\r\nTRANSPORTATION",
+        "Activity": "Unload Equipment"
+    },
+    {
+        
+        "Truck": "MP0202",
+        "Days": "MTWTFXX",
+        "Arrival": "12:27:00",
+        "Departure": "13:05:00",
+        "Next_Location": "WEST TRANSPORTATION",
+        "Activity": "Unload all empty equipment."
+    },
+    {
+        
+        "Truck": "MT0236",
+        "Days": "MTWTFXX",
+        "Arrival": "12:30:00",
+        "Departure": "12:40:00",
+        "Next_Location": "WEST\r\nTRANSPORTATION",
+        "Activity": "Drop trailer for GATEWAY WEST."
+    },
+    {
+        
+        "Truck": "MW0209",
+        "Days": "MTWTFXX",
+        "Arrival": "12:55:00",
+        "Departure": "13:10:00",
+        "Next_Location": "WEST TRANSPORTATION",
+        "Activity": "Unload Equipment"
+    },
+    {
+        
+        "Truck": "ME0202",
+        "Days": "MTWTFXX",
+        "Arrival": "13:00:00",
+        "Departure": "13:15:00",
+        "Next_Location": "EAST\r\nTRANSPORTATION",
+        "Activity": "Unload all mail for GATEWAY WEST."
+    },
+    {
+        
+        "Truck": "MS0204",
+        "Days": "XXXXXSX",
+        "Arrival": "13:02:00",
+        "Departure": "13:22:00",
+        "Next_Location": "DON MILLS + TOR 'O' &\r\n'R'",
+        "Activity": "Load all Pub and Ads and any available Packets for\r\nDON MILLS + TOR 'O' & 'R'."
+    },
+    {
+        
+        "Truck": "MU0208",
+        "Days": "XXXXXXS",
+        "Arrival": "13:12:00",
+        "Departure": "14:02:00",
+        "Next_Location": "WPDH DESPATCH",
+        "Activity": "Unload All Mail for GATEWAY WEST (Docks #3-10)."
+    },
+    {
+        
+        "Truck": "MS0210",
+        "Days": "XXXXXSX",
+        "Arrival": "13:12:00",
+        "Departure": "13:37:00",
+        "Next_Location": "MAPLE",
+        "Activity": "Unload mail for Gateway West."
+    },
+    {
+        
+        "Truck": "MP0300",
+        "Days": "MTWTFXX",
+        "Arrival": "13:20:00",
+        "Departure": "13:30:00",
+        "Next_Location": "GATEWAY EAST\r\nDOCKS",
+        "Activity": "Unload All mail and equipment for GATEWAY WEST."
+    },
+    {
+        
+        "Truck": "MW0214",
+        "Days": "MTWTFXX",
+        "Arrival": "13:25:00",
+        "Departure": "13:43:00",
+        "Next_Location": "WEST\r\nTRANSPORTATION",
+        "Activity": "Unload Equipment"
+    },
+    {
+        
+        "Truck": "MP0304",
+        "Days": "MTWTFXX",
+        "Arrival": "13:35:00",
+        "Departure": "13:55:00",
+        "Next_Location": "20 Min Paid Break",
+        "Activity": "Unload Equipment"
+    },
+    {
+        
+        "Truck": "MT0209",
+        "Days": "XXXXXSX",
+        "Arrival": "13:37:00",
+        "Departure": "14:22:00",
+        "Next_Location": "WEST\r\nTRANSPORTATION",
+        "Activity": "Drop trailer for T.W.P.P.."
+    },
+    {
+        
+        "Truck": "MU0310",
+        "Days": "XXXXXXS",
+        "Arrival": "13:47:00",
+        "Departure": "14:42:00",
+        "Next_Location": "GATEWAY EAST\r\nDOCKS",
+        "Activity": "Load all mail for Wicksteed Station."
+    },
+    {
+        
+        "Truck": "MS0212",
+        "Days": "XXXXXSX",
+        "Arrival": "13:52:00",
+        "Departure": "14:12:00",
+        "Next_Location": "NEW MARKHAM\r\nDELIVERY DEPOT",
+        "Activity": "Load all pubs and ads for NEW MARKHAM DELIVERY\r\nDEPOT."
+    },
+    {
+        
+        "Truck": "MW0333",
+        "Days": "MTWTFXX",
+        "Arrival": "14:05:00",
+        "Departure": "15:05:00",
+        "Next_Location": "GATEWAY (TEO)",
+        "Activity": "Duties as Directed for bridge from GATEWAY WEST to\r\nGATEWAY EAST DOCKS."
+    },
+    {
+        
+        "Truck": "MS0202",
+        "Days": "XXXXXSX",
+        "Arrival": "14:17:00",
+        "Departure": "14:37:00",
+        "Next_Location": "SCARBORO DELIVERY\r\nCENTRE + CSC",
+        "Activity": "Load all Pub and Ads and any available Packets for\r\nSDC (Docks #3-10)."
+    },
+    {
+        
+        "Truck": "ME0319",
+        "Days": "MTWTFXX",
+        "Arrival": "14:20:00",
+        "Departure": "14:40:00",
+        "Next_Location": "UNIONVILLE DEPOT",
+        "Activity": "Load all EXPRES, LCAO PACKETS, and available\r\nmail for UNIONVILLE."
+    },
+    {
+        
+        "Truck": "MT0322",
+        "Days": "MTWTXXS",
+        "Arrival": "14:27:00",
+        "Departure": "14:42:00",
+        "Next_Location": "COURTNEY PARK\r\nANNEX (EAST DOCKS 226-229)",
+        "Activity": "Lift trailer for COURTNEY PARK ANNEX."
+    },
+    {
+        
+        "Truck": "MS0201",
+        "Days": "XXXXXSX",
+        "Arrival": "14:32:00",
+        "Departure": "14:52:00",
+        "Next_Location": "DOWNSVIEW NORTH",
+        "Activity": "Load Pubs & Admail for Downsview North (Docks\r\n#3-10)."
+    },
+    {
+        
+        "Truck": "MP0302",
+        "Days": "MTWTFXX",
+        "Arrival": "14:35:00",
+        "Departure": "15:08:00",
+        "Next_Location": "WEST\r\nTRANSPORTATION",
+        "Activity": "Unload Equipment"
+    },
+    {
+        
+        "Truck": "MS0203",
+        "Days": "XXXXXSX",
+        "Arrival": "14:37:00",
+        "Departure": "14:57:00",
+        "Next_Location": "SCARBORO DEP 11\r\n(Stn A & B)",
+        "Activity": "Load all Pub and Ads and any available Packets for Scar Depot 11 (Docks #3-10)."
+    },
+    {
+        
+        "Truck": "MW0313",
+        "Days": "MTWTFXX",
+        "Arrival": "14:40:00",
+        "Departure": "15:00:00",
+        "Next_Location": "GATEWAY EAST\r\nDESPATCH",
+        "Activity": "Load all EXPRES, LCAO PACKETS, and available\r\nmail for NEW MARKHAM."
+    },
+    {
+        
+        "Truck": "MW0340",
+        "Days": "MTWTFXX",
+        "Arrival": "15:00:00",
+        "Departure": "15:20:00",
+        "Next_Location": "CREDITSTONE\r\nDELIVERY CENTRE",
+        "Activity": "Load all EXPRES, LCAO PACKETS, and available\r\nmail for CREDITSTONE DELIVERY CENTRE."
+    },
+    {
+        
+        "Truck": "MW0312",
+        "Days": "MTWTFXX",
+        "Arrival": "15:05:00",
+        "Departure": "15:25:00",
+        "Next_Location": "DON MILLS + TOR 'O' &\r\n'R'",
+        "Activity": "Load all EXPRES, LCAO PACKETS, and available\r\nmail for DON MILLS."
+    },
+    {
+        
+        "Truck": "MW0318",
+        "Days": "MTWTFXX",
+        "Arrival": "15:12:00",
+        "Departure": "16:47:00",
+        "Next_Location": "PICKERING STN",
+        "Activity": "Load all EXPRES, LCAO PACKETS, and available\r\nmail for PICKERING."
+    },
+    {
+        
+        "Truck": "MW0309",
+        "Days": "MTWTFXX",
+        "Arrival": "15:20:00",
+        "Departure": "15:40:00",
+        "Next_Location": "MISSISSAUGA DEPOT\r\n#3",
+        "Activity": "Load all EXPRES, LCAO PACKETS, and available\r\nmail for MISSISSAUGA #3.."
+    },
+    {
+        
+        "Truck": "MW0301",
+        "Days": "MTWTFXX",
+        "Arrival": "15:25:00",
+        "Departure": "15:45:00",
+        "Next_Location": "TORONTO WEST\r\nDELIVERY CENTRE",
+        "Activity": "Load all EXPRES, LCAO PACKETS, and available\r\nmail for TWDC."
+    },
+    {
+        
+        "Truck": "MW0332",
+        "Days": "MTWTFXX",
+        "Arrival": "15:25:00",
+        "Departure": "15:45:00",
+        "Next_Location": "GATEWAY EAST\r\nDOCKS",
+        "Activity": "Load all mail for WPDH, and GATEWAY EAST."
+    },
+    {
+        
+        "Truck": "MW0306",
+        "Days": "MTWTFXX",
+        "Arrival": "15:30:00",
+        "Departure": "15:50:00",
+        "Next_Location": "MISSISSAUGA DEPOT\r\n#4 & #7 + CSC",
+        "Activity": "Load all EXPRES, LCAO PACKETS, and available\r\nmail for MISSISSAUGA #4 & #7."
+    },
+    {
+        
+        "Truck": "MW0304",
+        "Days": "MTWTFXX",
+        "Arrival": "15:30:00",
+        "Departure": "15:50:00",
+        "Next_Location": "DOWNSVIEW NORTH",
+        "Activity": "Load all EXPRES, LCAO PACKETS, and available\r\nmail for DOWNSVIEW NORTH."
+    },
+    {
+        
+        "Truck": "MS0210",
+        "Days": "XXXXXSX",
+        "Arrival": "15:32:00",
+        "Departure": "15:47:00",
+        "Next_Location": "WEST\r\nTRANSPORTATION",
+        "Activity": "Unload mail for TWPP"
+    },
+    {
+        
+        "Truck": "MW0342",
+        "Days": "MTWTFXX",
+        "Arrival": "15:45:00",
+        "Departure": "16:05:00",
+        "Next_Location": "GATEWAY EAST\r\nDOCKS",
+        "Activity": "Load all mail for GATEWAY EAST."
+    },
+    {
+        
+        "Truck": "MW0331",
+        "Days": "MTWTFXX",
+        "Arrival": "15:55:00",
+        "Departure": "16:20:00",
+        "Next_Location": "GATEWAY EAST\r\nDOCKS",
+        "Activity": "Unload all mail for GATEWAY WEST and load all mail\r\nfor GATEWAY EAST DOCKS."
+    },
+    {
+        
+        "Truck": "ME0318",
+        "Days": "MTWTFXX",
+        "Arrival": "16:15:00",
+        "Departure": "16:40:00",
+        "Next_Location": "SCLPP (SOUTH DOCKS\r\n25-30)",
+        "Activity": "Unload all mail for GATEWAY WEST and load all mail\r\nfor SCLPP."
+    },
+    {
+        
+        "Truck": "ME0304",
+        "Days": "MTWTFXX",
+        "Arrival": "16:15:00",
+        "Departure": "16:35:00",
+        "Next_Location": "NEW MARKHAM\r\nDELIVERY DEPOT",
+        "Activity": "Load all EXPRES, LCAO PACKETS, and available\r\nmail for NEW MARKHAM."
+    },
+    {
+        
+        "Truck": "MW0320",
+        "Days": "MTWTFXX",
+        "Arrival": "16:15:00",
+        "Departure": "16:35:00",
+        "Next_Location": "AJAX L/C DEPOT",
+        "Activity": "Load all EXPRES, LCAO PACKETS, and available\r\nmail for AJAX."
+    },
+    {
+        
+        "Truck": "MU0303",
+        "Days": "XXXXXXS",
+        "Arrival": "16:22:00",
+        "Departure": "16:52:00",
+        "Next_Location": "NEW MARKHAM\r\nDELIVERY DEPOT",
+        "Activity": "Load all pubs & ad for NEW MARKHAM DELIVERY\r\nDEPOT."
+    },
+    {
+        
+        "Truck": "MU0301",
+        "Days": "XXXXXXS",
+        "Arrival": "16:22:00",
+        "Departure": "16:42:00",
+        "Next_Location": "PICKERING STN",
+        "Activity": "Load Pub and Ad and any available Packets for\r\nPickering & Ajax (Docks #3-10)."
+    },
+    {
+        
+        "Truck": "MU0306",
+        "Days": "XXXXXXS",
+        "Arrival": "16:22:00",
+        "Departure": "17:35:00",
+        "Next_Location": "Progistix Solutions",
+        "Activity": "Duties as Directed"
+    },
+    {
+        
+        "Truck": "MU0304",
+        "Days": "XXXXXXS",
+        "Arrival": "16:22:00",
+        "Departure": "16:42:00",
+        "Next_Location": "RICHMOND HILL\r\nDP+CSC",
+        "Activity": "Load Pubs & Admail and any available packets for\r\nRichmond Hill (Docks #3-10)."
+    },
+    {
+        
+        "Truck": "MW0342",
+        "Days": "MTWTFXX",
+        "Arrival": "16:30:00",
+        "Departure": "16:50:00",
+        "Next_Location": "GATEWAY EAST\r\nDOCKS",
+        "Activity": "Load all mail for GATEWAY EAST."
+    },
+    {
+        
+        "Truck": "MW0329",
+        "Days": "MTWTFXX",
+        "Arrival": "16:30:00",
+        "Departure": "16:50:00",
+        "Next_Location": "TORONTO WEST\r\nDELIVERY CENTRE",
+        "Activity": "Load all EXPRES, LCAO PACKETS, and available\r\nmail for TWDC."
+    },
+    {
+        
+        "Truck": "MW0323",
+        "Days": "MTWTFXX",
+        "Arrival": "16:35:00",
+        "Departure": "16:55:00",
+        "Next_Location": "SCARBORO DEP 11\r\n(Stn A & B)",
+        "Activity": "Load all EXPRES, LCAO PACKETS, and available\r\nmail for SCARBOROUGH 11."
+    },
+    {
+        
+        "Truck": "MU0305",
+        "Days": "XXXXXXS",
+        "Arrival": "16:42:00",
+        "Departure": "16:57:00",
+        "Next_Location": "TOR VEX",
+        "Activity": "Unload All Mail for T.W.P.P.."
+    },
+    {
+        
+        "Truck": "MU0309",
+        "Days": "XXXXXXS",
+        "Arrival": "16:47:00",
+        "Departure": "17:07:00",
+        "Next_Location": "CREDITSTONE\r\nDELIVERY CENTRE",
+        "Activity": "Load all mail for CDC."
+    },
+    {
+        
+        "Truck": "MU0302",
+        "Days": "XXXXXXS",
+        "Arrival": "16:47:00",
+        "Departure": "17:07:00",
+        "Next_Location": "TORONTO WEST\r\nDELIVERY CENTRE",
+        "Activity": "Load Pubs & Admail for TWDC (Docks #3-10)."
+    },
+    {
+        
+        "Truck": "MW0328",
+        "Days": "MTWTFXX",
+        "Arrival": "16:50:00",
+        "Departure": "17:10:00",
+        "Next_Location": "PORTLANDS\r\nDELIVERY CENTRE",
+        "Activity": "Load all EXPRES, LCAO PACKETS, and available\r\nmail for PDC."
+    },
+    {
+        
+        "Truck": "MW0324",
+        "Days": "MTWTFXX",
+        "Arrival": "16:55:00",
+        "Departure": "17:15:00",
+        "Next_Location": "RICHMOND HILL\r\nDP+CSC",
+        "Activity": "Load all EXPRES, LCAO PACKETS, and available\r\nmail for RICHMOND HILL."
+    },
+    {
+        
+        "Truck": "MW0308",
+        "Days": "MTWTFXX",
+        "Arrival": "17:10:00",
+        "Departure": "17:35:00",
+        "Next_Location": "TORONTO WEST\r\nDELIVERY CENTRE",
+        "Activity": "Unload Equipment"
+    },
+    {
+        
+        "Truck": "MU0312",
+        "Days": "XXXXXXS",
+        "Arrival": "17:17:00",
+        "Departure": "17:37:00",
+        "Next_Location": "TORONTO WEST\r\nDELIVERY CENTRE",
+        "Activity": "Load Pubs & Admail for TWDC (Docks #3-10)."
+    },
+    {
+        
+        "Truck": "MW0315",
+        "Days": "MTWTFXX",
+        "Arrival": "17:20:00",
+        "Departure": "17:40:00",
+        "Next_Location": "ETOBICOKE DEL\r\nCENTRE + CSC",
+        "Activity": "Load all EXPRES, LCAO PACKETS, and available\r\nmail for EDC."
+    },
+    {
+        
+        "Truck": "MW0342",
+        "Days": "MTWTFXX",
+        "Arrival": "17:25:00",
+        "Departure": "17:45:00",
+        "Next_Location": "GATEWAY EAST\r\nDOCKS",
+        "Activity": "Load all mail for GATEWAY EAST."
+    },
+    {
+        
+        "Truck": "MT0312",
+        "Days": "XXXXXXS",
+        "Arrival": "17:27:00",
+        "Departure": "17:42:00",
+        "Next_Location": "SCLPP (SOUTH DOCKS\r\n25-30)",
+        "Activity": "Lift loaded trailer for SCLPP."
+    },
+    {
+        
+        "Truck": "MT0322",
+        "Days": "MTWTXXS",
+        "Arrival": "18:40:00",
+        "Departure": "18:55:00",
+        "Next_Location": "COURTNEY PARK\r\nANNEX (EAST DOCKS 226-229)",
+        "Activity": "Lift trailer for COURTNEY PARK ANNEX."
+    },
+    {
+        
+        "Truck": "MU0305",
+        "Days": "XXXXXXS",
+        "Arrival": "18:42:00",
+        "Departure": "18:57:00",
+        "Next_Location": "WPDH DESPATCH",
+        "Activity": "Unload All Mail for T.W.P.P.."
+    },
+    {
+        
+        "Truck": "MP0306",
+        "Days": "MTWTFXX",
+        "Arrival": "18:45:00",
+        "Departure": "19:00:00",
+        "Next_Location": "WEST\r\nTRANSPORTATION",
+        "Activity": "Unload All mail for GATEWAY WEST."
+    },
+    {
+        
+        "Truck": "MU0314",
+        "Days": "XXXXXXS",
+        "Arrival": "18:47:00",
+        "Departure": "19:12:00",
+        "Next_Location": "GATEWAY EAST\r\nDOCKS",
+        "Activity": "Unload all mail for GATEWAY WEST and load all mail\r\nfor BMF East."
+    },
+    {
+        
+        "Truck": "ME0324",
+        "Days": "MTWTFXX",
+        "Arrival": "18:50:00",
+        "Departure": "19:15:00",
+        "Next_Location": "SCLPP (SOUTH DOCKS\r\n25-30)",
+        "Activity": "Unload all mail for GATEWAY WEST and load all mail\r\nfor SCLPP."
+    },
+    {
+        
+        "Truck": "MW0335",
+        "Days": "MTWTFXX",
+        "Arrival": "18:50:00",
+        "Departure": "19:05:00",
+        "Next_Location": "TORONTO AMF  BLDG\r\n' E '",
+        "Activity": "Unload All mail for GATEWAY WEST (Docks #15-17)."
+    },
+    {
+        
+        "Truck": "MT0314",
+        "Days": "MTWTFXX",
+        "Arrival": "18:50:00",
+        "Departure": "19:10:00",
+        "Next_Location": "WEST\r\nTRANSPORTATION",
+        "Activity": "Drop empty trailer for GATEWAY WEST."
+    },
+    {
+        
+        "Truck": "MW0344",
+        "Days": "MTWTFXX",
+        "Arrival": "18:50:00",
+        "Departure": "19:05:00",
+        "Next_Location": "WEST\r\nTRANSPORTATION",
+        "Activity": "Unload all mail for GATEWAY WEST."
+    },
+    {
+        
+        "Truck": "MW0326",
+        "Days": "MTWTFXX",
+        "Arrival": "18:55:00",
+        "Departure": "19:40:00",
+        "Next_Location": "WEST\r\nTRANSPORTATION",
+        "Activity": "Unload All mail for GATEWAY WEST."
+    },
+    {
+        
+        "Truck": "MU0309",
+        "Days": "XXXXXXS",
+        "Arrival": "18:57:00",
+        "Departure": "19:17:00",
+        "Next_Location": "PORTLANDS DELIVERY CENTRE",
+        "Activity": "Load Pub & Admail and any available Packets for PDC."
+    },
+    {
+        
+        "Truck": "MW0321",
+        "Days": "MTWTFXX",
+        "Arrival": "19:00:00",
+        "Departure": "19:33:00",
+        "Next_Location": "WEST\r\nTRANSPORTATION",
+        "Activity": "Unload All mail for GATEWAY WEST."
+    },
+    {
+        
+        "Truck": "MW0309",
+        "Days": "MTWTFXX",
+        "Arrival": "19:00:00",
+        "Departure": "19:15:00",
+        "Next_Location": "WEST TRANSPORTATION",
+        "Activity": "Unload All mail for GATEWAY WEST."
+    },
+    {
+        
+        "Truck": "MP0310",
+        "Days": "MTWTFXX",
+        "Arrival": "19:02:00",
+        "Departure": "19:27:00",
+        "Next_Location": "WEST\r\nTRANSPORTATION",
+        "Activity": "Unload all mail for GATEWAY WEST."
+    },
+    {
+        
+        "Truck": "MW0338",
+        "Days": "MTWTFXX",
+        "Arrival": "19:05:00",
+        "Departure": "19:58:00",
+        "Next_Location": "WEST\r\nTRANSPORTATION",
+        "Activity": "Unload all mail for GATEWAY WEST."
+    },
+    {
+        
+        "Truck": "MW0343",
+        "Days": "MTWTFXX",
+        "Arrival": "19:05:00",
+        "Departure": "19:20:00",
+        "Next_Location": "WEST TRANSPORTATION",
+        "Activity": "Unload all mail for GATEWAY WEST."
+    },
+    {
+        
+        "Truck": "MP0312",
+        "Days": "MTWTFXX",
+        "Arrival": "19:10:00",
+        "Departure": "20:08:00",
+        "Next_Location": "WEST\r\nTRANSPORTATION",
+        "Activity": "Unload All mail for GATEWAY WEST."
+    },
+    {
+        
+        "Truck": "MW0316",
+        "Days": "MTWTFXX",
+        "Arrival": "19:10:00",
+        "Departure": "19:35:00",
+        "Next_Location": "WEST TRANSPORTATION",
+        "Activity": "Unload All mail for GATEWAY WEST."
+    },
+    {
+        
+        "Truck": "MW0306",
+        "Days": "MTWTFXX",
+        "Arrival": "19:10:00",
+        "Departure": "19:25:00",
+        "Next_Location": "WEST\r\nTRANSPORTATION",
+        "Activity": "Unload All mail for GATEWAY WEST."
+    },
+    {
+        
+        "Truck": "MU0302",
+        "Days": "XXXXXXS",
+        "Arrival": "19:12:00",
+        "Departure": "19:32:00",
+        "Next_Location": "WICKSTEED TORONTO\r\nDELIVERY FACILITY",
+        "Activity": "Load all Pub and Ads and any available Packets for\r\nToronto S (Docks #3-10)."
+    },
+    {
+        
+        "Truck": "MW0304",
+        "Days": "MTWTFXX",
+        "Arrival": "19:15:00",
+        "Departure": "19:30:00",
+        "Next_Location": "WEST\r\nTRANSPORTATION",
+        "Activity": "Unload All mail for GATEWAY WEST."
+    },
+    {
+        
+        "Truck": "MW0302",
+        "Days": "MTWTFXX",
+        "Arrival": "19:15:00",
+        "Departure": "20:28:00",
+        "Next_Location": "WEST\r\nTRANSPORTATION",
+        "Activity": "Unload all mail for GATEWAY WEST."
+    },
+    {
+        
+        "Truck": "MW0308",
+        "Days": "MTWTFXX",
+        "Arrival": "19:15:00",
+        "Departure": "19:30:00",
+        "Next_Location": "WEST TRANSPORTATION",
+        "Activity": "Unload All mail for GATEWAY WEST."
+    },
+    {
+        
+        "Truck": "MW0305",
+        "Days": "MTWTFXX",
+        "Arrival": "19:15:00",
+        "Departure": "19:30:00",
+        "Next_Location": "WEST\r\nTRANSPORTATION",
+        "Activity": "Unload All mail for GATEWAY WEST."
+    },
+    {
+        
+        "Truck": "MU0304",
+        "Days": "XXXXXXS",
+        "Arrival": "19:17:00",
+        "Departure": "19:37:00",
+        "Next_Location": "600 COMMISSIONERS",
+        "Activity": "Load Pubs & Admail , Including Special Products for\r\n600 Commissioners (Docks #3-10)."
+    },
+    {
+        
+        "Truck": "MU0307",
+        "Days": "XXXXXXS",
+        "Arrival": "19:17:00",
+        "Departure": "19:32:00",
+        "Next_Location": "WEST\r\nTRANSPORTATION",
+        "Activity": "Unload All Mail for T.W.P.P."
+    },
+    {
+        
+        "Truck": "MU0303",
+        "Days": "XXXXXXS",
+        "Arrival": "19:17:00",
+        "Departure": "20:12:00",
+        "Next_Location": "ETOBICOKE DEL\r\nCENTRE + CSC",
+        "Activity": "Load Pubs & Admail for ETOBICOKE DELIVERY\r\nCENTRE (Docks #3-10)."
+    },
+    {
+        
+        "Truck": "MW0319",
+        "Days": "MTWTFXX",
+        "Arrival": "19:25:00",
+        "Departure": "19:50:00",
+        "Next_Location": "WEST\r\nTRANSPORTATION",
+        "Activity": "Unload All mail for GATEWAY WEST."
+    },
+    {
+        
+        "Truck": "MW0323",
+        "Days": "MTWTFXX",
+        "Arrival": "19:25:00",
+        "Departure": "19:50:00",
+        "Next_Location": "WEST\r\nTRANSPORTATION",
+        "Activity": "Unload All mail for GATEWAY WEST."
+    },
+    {
+        
+        "Truck": "MW0310",
+        "Days": "MTWTFXX",
+        "Arrival": "19:30:00",
+        "Departure": "19:45:00",
+        "Next_Location": "WEST\r\nTRANSPORTATION",
+        "Activity": "Unload All mail for GATEWAY WEST."
+    },
+    {
+        
+        "Truck": "MW0329",
+        "Days": "MTWTFXX",
+        "Arrival": "19:30:00",
+        "Departure": "19:55:00",
+        "Next_Location": "WEST\r\nTRANSPORTATION",
+        "Activity": "Unload All mail for GATEWAY WEST."
+    },
+    {
+        
+        "Truck": "MW0325",
+        "Days": "MTWTFXX",
+        "Arrival": "19:30:00",
+        "Departure": "19:45:00",
+        "Next_Location": "WEST\r\nTRANSPORTATION",
+        "Activity": "Unload All mail for GATEWAY WEST."
+    },
+    {
+        
+        "Truck": "MW0307",
+        "Days": "MTWTFXX",
+        "Arrival": "19:30:00",
+        "Departure": "19:45:00",
+        "Next_Location": "WEST\r\nTRANSPORTATION",
+        "Activity": "Unload All mail for GATEWAY WEST."
+    },
+    {
+        
+        "Truck": "ME0322",
+        "Days": "MTWTFXX",
+        "Arrival": "19:30:00",
+        "Departure": "19:45:00",
+        "Next_Location": "GATEWAY (TEO)",
+        "Activity": "Unload All OVERSIZED mail for GATEWAY WEST."
+    },
+    {
+        
+        "Truck": "MW0339",
+        "Days": "MTWTFXX",
+        "Arrival": "19:40:00",
+        "Departure": "19:55:00",
+        "Next_Location": "WEST\r\nTRANSPORTATION",
+        "Activity": "Unload all mail for GATEWAY WEST."
+    },
+    {
+        
+        "Truck": "MW0324",
+        "Days": "MTWTFXX",
+        "Arrival": "19:40:00",
+        "Departure": "20:13:00",
+        "Next_Location": "WEST\r\nTRANSPORTATION",
+        "Activity": "Unload All mail for GATEWAY WEST."
+    },
+    {
+        
+        "Truck": "MW0320",
+        "Days": "MTWTFXX",
+        "Arrival": "19:40:00",
+        "Departure": "20:05:00",
+        "Next_Location": "WEST TRANSPORTATION",
+        "Activity": "Unload All mail for GATEWAY WEST."
+    },
+    {
+        
+        "Truck": "MW0317",
+        "Days": "MTWTFXX",
+        "Arrival": "19:40:00",
+        "Departure": "19:55:00",
+        "Next_Location": "WEST\r\nTRANSPORTATION",
+        "Activity": "Unload All mail for GATEWAY WEST."
+    },
+    {
+        
+        "Truck": "MP0305",
+        "Days": "MTWTFXX",
+        "Arrival": "19:40:00",
+        "Departure": "19:55:00",
+        "Next_Location": "WEST\r\nTRANSPORTATION",
+        "Activity": "Unload all mail for GATEWAY WEST."
+    },
+    {
+        
+        "Truck": "MW0340",
+        "Days": "MTWTFXX",
+        "Arrival": "19:40:00",
+        "Departure": "19:55:00",
+        "Next_Location": "WEST\r\nTRANSPORTATION",
+        "Activity": "Unload all mail for GATEWAY WEST."
+    },
+    {
+        
+        "Truck": "MW0318",
+        "Days": "MTWTFXX",
+        "Arrival": "19:40:00",
+        "Departure": "20:05:00",
+        "Next_Location": "TOR VEX",
+        "Activity": "Unload All mail for GATEWAY WEST."
+    },
+    {
+        
+        "Truck": "MW0328",
+        "Days": "MTWTFXX",
+        "Arrival": "19:45:00",
+        "Departure": "20:08:00",
+        "Next_Location": "WEST\r\nTRANSPORTATION",
+        "Activity": "Unload all mail for GATEWAY WEST."
+    },
+    {
+        
+        "Truck": "MT0322",
+        "Days": "MTWTXXS",
+        "Arrival": "19:45:00",
+        "Departure": "20:05:00",
+        "Next_Location": "COURTNEY PARK ANNEX (EAST DOCKS 226-229)",
+        "Activity": "Drop trailer at GATEWAY WEST and lift trailer for COURTNEY PARK ANNEX."
+    },
+    {
+        
+        "Truck": "MW0300",
+        "Days": "MTWTFXX",
+        "Arrival": "19:45:00",
+        "Departure": "20:00:00",
+        "Next_Location": "WEST\r\nTRANSPORTATION",
+        "Activity": "Unload All mail for GATEWAY WEST."
+    },
+    {
+        
+        "Truck": "MW0315",
+        "Days": "MTWTFXX",
+        "Arrival": "19:45:00",
+        "Departure": "20:38:00",
+        "Next_Location": "WEST\r\nTRANSPORTATION",
+        "Activity": "Unload All mail for GATEWAY WEST."
+    },
+    {
+        
+        "Truck": "MW0347",
+        "Days": "MTWTFXX",
+        "Arrival": "19:50:00",
+        "Departure": "20:05:00",
+        "Next_Location": "WEST TRANSPORTATION",
+        "Activity": "Unload all mail for GATEWAY WEST."
+    },
+    {
+        
+        "Truck": "MW0345",
+        "Days": "MTWTFXX",
+        "Arrival": "19:50:00",
+        "Departure": "20:05:00",
+        "Next_Location": "WEST\r\nTRANSPORTATION",
+        "Activity": "Unload all mail for GATEWAY WEST."
+    },
+    {
+        
+        "Truck": "MW0335",
+        "Days": "MTWTFXX",
+        "Arrival": "19:55:00",
+        "Departure": "20:10:00",
+        "Next_Location": "WPDH DESPATCH",
+        "Activity": "Unload All mail for GATEWAY WEST (Dock #20)."
+    },
+    {
+        
+        "Truck": "MW0332",
+        "Days": "MTWTFXX",
+        "Arrival": "19:55:00",
+        "Departure": "20:10:00",
+        "Next_Location": "WEST\r\nTRANSPORTATION",
+        "Activity": "Unload All mail for GATEWAY WEST."
+    },
+    {
+        
+        "Truck": "ME0321",
+        "Days": "MTWTFXX",
+        "Arrival": "20:05:00",
+        "Departure": "20:20:00",
+        "Next_Location": "WPDH DESPATCH",
+        "Activity": "Unload All OVERSIZED mail for GATEWAY WEST."
+    },
+    {
+        
+        "Truck": "MU0301",
+        "Days": "XXXXXXS",
+        "Arrival": "20:07:00",
+        "Departure": "20:27:00",
+        "Next_Location": "ETOBICOKE 'B' & 'C'\r\nDEP+CSC",
+        "Activity": "Load Pub and Ad and any available Packets for\r\nEtobicoke B & C (Docks #3-10)."
+    },
+    {
+        
+        "Truck": "ME0325",
+        "Days": "MTWTFXX",
+        "Arrival": "20:15:00",
+        "Departure": "20:30:00",
+        "Next_Location": "EAST\r\nTRANSPORTATION",
+        "Activity": "Unload all mail for GATEWAY WEST."
+    },
+    {
+        
+        "Truck": "MU0314",
+        "Days": "XXXXXXS",
+        "Arrival": "20:22:00",
+        "Departure": "20:42:00",
+        "Next_Location": "UNIONVILLE DEPOT",
+        "Activity": "Load all mail for UNIONVILLE DEPOT."
+    },
+    {
+        
+        "Truck": "MW0346",
+        "Days": "MTWTFXX",
+        "Arrival": "20:25:00",
+        "Departure": "20:40:00",
+        "Next_Location": "WEST\r\nTRANSPORTATION",
+        "Activity": "Unload all mail for GATEWAY WEST."
+    },
+    {
+        
+        "Truck": "MP0309",
+        "Days": "MTWTFXX",
+        "Arrival": "20:25:00",
+        "Departure": "20:40:00",
+        "Next_Location": "WEST\r\nTRANSPORTATION",
+        "Activity": "Unload all mail for GATEWAY WEST."
+    },
+    {
+        
+        "Truck": "MW0301",
+        "Days": "MTWTFXX",
+        "Arrival": "20:25:00",
+        "Departure": "20:40:00",
+        "Next_Location": "WEST\r\nTRANSPORTATION",
+        "Activity": "Unload All mail for GATEWAY WEST."
+    },
+    {
+        
+        "Truck": "MW0333",
+        "Days": "MTWTFXX",
+        "Arrival": "20:30:00",
+        "Departure": "20:55:00",
+        "Next_Location": "WEST\r\nTRANSPORTATION",
+        "Activity": "Unload All mail for GATEWAY WEST."
+    },
+    {
+        
+        "Truck": "MU0311",
+        "Days": "XXXXXXS",
+        "Arrival": "20:35:00",
+        "Departure": "20:50:00",
+        "Next_Location": "TORONTO AMF  BLDG\r\n' E '",
+        "Activity": "Unload all mail from SCLPP."
+    },
+    {
+        
+        "Truck": "MU0312",
+        "Days": "XXXXXXS",
+        "Arrival": "20:37:00",
+        "Departure": "21:02:00",
+        "Next_Location": "GATEWAY EAST\r\nDOCKS",
+        "Activity": "Unload All Sequencing Mail for T.W.P.P.."
+    },
+    {
+        
+        "Truck": "MW0342",
+        "Days": "MTWTFXX",
+        "Arrival": "20:45:00",
+        "Departure": "21:05:00",
+        "Next_Location": "GATEWAY EAST\r\nDOCKS",
+        "Activity": "Load all mail for GATEWAY EAST."
+    },
+    {
+        
+        "Truck": "MT0322",
+        "Days": "MTWTXXS",
+        "Arrival": "20:55:00",
+        "Departure": "21:40:00",
+        "Next_Location": "WEST\r\nTRANSPORTATION",
+        "Activity": "Drop trailer for GATEWAY WEST."
+    },
+    {
+        
+        "Truck": "MW0335",
+        "Days": "MTWTFXX",
+        "Arrival": "21:00:00",
+        "Departure": "21:25:00",
+        "Next_Location": "WEST TRANSPORTATION",
+        "Activity": "Unload All mail for GATEWAY WEST (Docks #15-17)."
+    },
+    {
+        
+        "Truck": "ME0300",
+        "Days": "MTWTFXX",
+        "Arrival": "21:20:00",
+        "Departure": "21:43:00",
+        "Next_Location": "GATEWAY EAST\r\nDOCKS",
+        "Activity": "Unload All OVERSIZED mail for GATEWAY WEST.\r\nLoad mail for GATEWAY EAST DOCKS."
+    },
+    {
+        
+        "Truck": "MU0305",
+        "Days": "XXXXXXS",
+        "Arrival": "21:22:00",
+        "Departure": "21:42:00",
+        "Next_Location": "BRAMPTON DEL\r\nCENTRE + CSC",
+        "Activity": "Load all mail for BDC."
+    },
+    {
+        
+        "Truck": "MP0308",
+        "Days": "MTWTFXX",
+        "Arrival": "21:25:00",
+        "Departure": "21:40:00",
+        "Next_Location": "GATEWAY EAST\r\nDOCKS",
+        "Activity": "Unload All mail for GATEWAY WEST."
+    },
+    {
+        
+        "Truck": "MT0301",
+        "Days": "XXWTFXX",
+        "Arrival": "21:40:00",
+        "Departure": "21:50:00",
+        "Next_Location": "GATEWAY EAST\r\nDESPATCH",
+        "Activity": "Drop loaded Oversized mail trailer for GATEWAY\r\nWEST."
+    },
+    {
+        
+        "Truck": "MT0301",
+        "Days": "MTXXXXX",
+        "Arrival": "21:40:00",
+        "Departure": "21:50:00",
+        "Next_Location": "GATEWAY EAST\r\nDESPATCH",
+        "Activity": "Drop loaded Oversized mail trailer for GATEWAY\r\nWEST."
+    },
+    {
+        
+        "Truck": "MW0314",
+        "Days": "MTWTFXX",
+        "Arrival": "21:50:00",
+        "Departure": "22:43:00",
+        "Next_Location": "WEST\r\nTRANSPORTATION",
+        "Activity": "Unload all mail for GATEWAY WEST."
+    },
+    {
+        
+        "Truck": "MU0304",
+        "Days": "XXXXXXS",
+        "Arrival": "21:52:00",
+        "Departure": "22:12:00",
+        "Next_Location": "BRAMPTON DEL CENTRE + CSC",
+        "Activity": "Load All Mails including Pub & Admail and Packets for BRAMPTON DELIVERY CENTRE."
+    },
+    {
+        
+        "Truck": "MU0309",
+        "Days": "XXXXXXS",
+        "Arrival": "22:05:00",
+        "Departure": "22:25:00",
+        "Next_Location": "MISSISSAUGA DEL\r\nCNTR",
+        "Activity": "Load all Pub and Ads and any available Packets for\r\nMDC (Docks #3-10)."
+    },
+    {
+        
+        "Truck": "ME0147",
+        "Days": "MTWTXXS",
+        "Arrival": "22:05:00",
+        "Departure": "22:20:00",
+        "Next_Location": "SCLPP (SOUTH DOCKS\r\n25-30)",
+        "Activity": "Unload All OAKVILLE, ORANGEVILLE,\r\nGEORGETOWN, MILTON, and SEQUENCED mail for GATEWAY WEST."
+    },
+    {
+        
+        "Truck": "MT0118",
+        "Days": "MTWTXXS",
+        "Arrival": "22:27:00",
+        "Departure": "22:42:00",
+        "Next_Location": "COURTNEY PARK\r\nANNEX (EAST DOCKS 226-229)",
+        "Activity": "Lift trailer for COURTNEY PARK ANNEX."
+    },
+    {
+        
+        "Truck": "ME0321",
+        "Days": "MTWTFXX",
+        "Arrival": "22:40:00",
+        "Departure": "23:05:00",
+        "Next_Location": "20 Min Paid Break",
+        "Activity": "Unload All mail for GATEWAY WEST."
+    },
+    {
+        
+        "Truck": "MW0152",
+        "Days": "MTWTXXS",
+        "Arrival": "22:45:00",
+        "Departure": "23:15:00",
+        "Next_Location": "WPDH DESPATCH",
+        "Activity": "Load all mail for WPDH (Tue-Fri )."
+    },
+    {
+        
+        "Truck": "MU0311",
+        "Days": "XXXXXXS",
+        "Arrival": "23:15:00",
+        "Departure": "0:05:00",
+        "Next_Location": "GATEWAY WEST",
+        "Activity": "Unload all mail for GATEWAY WEST."
+    },
+    {
+        
+        "Truck": "MU0306",
+        "Days": "XXXXXXS",
+        "Arrival": "23:32:00",
+        "Departure": "23:47:00",
+        "Next_Location": "WEST\r\nTRANSPORTATION",
+        "Activity": "Unload All Mail from Tor Vex, Including mail for Internal\r\nRecords."
+    },
+    {
+        
+        "Truck": "MT0118",
+        "Days": "MTWTXXS",
+        "Arrival": "23:32:00",
+        "Departure": "0:07:00",
+        "Next_Location": "GATEWAY WEST",
+        "Activity": "Drop trailer for GATEWAY WEST."
+    }
+]    

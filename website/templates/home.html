@@ -1,0 +1,160 @@
+{% extends "base.html" %}
+
+{% block title %}Truck Activity at CPC Gateway West{% endblock %}
+
+{% block content%}
+<img id = "logo" src="/static/logo.jpg" alt="logo" width=20% height=5%>
+<center><br></br><h1>Incoming Truck Activity at CPC Gateway WEST</h1><br></br>
+<script type="text/javascript" src="{{ url_for('static', filename='currTime.js') }}">
+</script>
+
+<body onload=display_currtime();>
+<span id='currTime' ></span></center><br></br>
+<style>
+    table {
+        margin: 0 auto;
+        font-size: large;
+    }
+    #logo {
+        float:left
+    }
+    #currTime {
+        font-size: xx-large;
+        font-weight: 500;
+    }
+    h1 {
+        text-align: center;
+        color: #004266;
+        font-size: xx-large;
+        font-weight: 200;
+        font-family: 'Open Sans';
+    }
+    th { 
+        padding: 10px;
+        text-align: center;
+        font-weight: 500;
+    }
+    td {
+        padding: 10px;
+        text-align: center;
+        font-weight: lighter;
+    }
+    .red {
+        background-color: rgba(255, 0, 0, 0.803) !important;
+        font-weight: bold;
+    }
+    .yellow {
+        background-color: rgba(255, 255, 0, 0.77) !important;
+        font-weight: bold;
+    }
+</style>
+<table id="table" class="table-light table-striped table-hover table-borderless" >
+    <tr id="col_names" class = "table-primary">
+        <th>Truck</th>
+        <th>Active Days</th>
+        <th>Arrival Time</th>
+        <th>Departure Time</th>
+        <th>Next Location</th>
+        <th>Activity</th>
+    </tr>
+</table>
+<center><img src="/static/legend.png" alt="table legend" width=40% ></center>
+<br></br>
+<p><i>&#169; 2022 Canada Post</i></p>
+
+<script src="//ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
+<script>
+    //Retriving data processed data from server
+    $SCRIPT_ROOT = {{ request.script_root|tojson|safe }};
+    (function () {
+        var table = document.getElementById("table");
+        function gettruckdata() {
+            $.getJSON($SCRIPT_ROOT+"/_updatetruckdata",
+            
+            function(data) {
+                //console.log(data)
+                Array.from(table.rows).forEach((row) => {
+                    
+                    if (row.id == "col_names") {
+                        row.setAttribute("keep", true)
+                    }
+                    else {
+                        // mark all rows to remove as a default
+                        row.setAttribute("keep", false)
+                    }
+                });
+                for (let i = 0; i < data.today.length; i++) {
+                    var id = data.today[i].Truck + data.today[i].Arrival + data.today[i].Departure + data.today[i].Next_Location;
+                    // find row with the specific id 
+                    var row = document.getElementById(id);
+                    // check if row exists in the table
+                    if (row){
+                        // replace content
+                        row.cells[0].innerHTML = data.today[i].Truck;
+                        row.cells[1].innerHTML = data.today[i].Days;
+                        row.cells[2].innerHTML = data.today[i].Arrival;
+                        row.cells[3].innerHTML = data.today[i].Departure;
+                        row.cells[4].innerHTML = data.today[i].Next_Location;
+                        row.cells[5].innerHTML = data.today[i].Activity;
+                    }
+                    else {
+                        // create new row for trucks coming the latest within 2 hours
+                        row = table.insertRow(-1);
+                                    
+                        // Insert new cells to the right
+                        var truck_c = row.insertCell(0);
+                        var days_c = row.insertCell(1);
+                        var arrival_c = row.insertCell(2);
+                        var departure_c = row.insertCell(3);
+                        var location_c = row.insertCell(4);
+                        var activity_c = row.insertCell(5);
+
+                        // Add some text to the new cells:
+                        truck_c.innerHTML = data.today[i].Truck;
+                        days_c.innerHTML = data.today[i].Days;
+                        arrival_c.innerHTML = data.today[i].Arrival;
+                        departure_c.innerHTML = data.today[i].Departure;
+                        location_c.innerHTML = data.today[i].Next_Location;
+                        activity_c.innerHTML = data.today[i].Activity;
+                    }
+                    
+                    // set background row color to red if a truck's departure is within 15 min
+                    if (data.fifteen[i] == true) {
+                        // change color from yellow to red if needed
+                        if (row.classList.contains("yellow")) {
+                            row.classList.remove("yellow");
+                        }
+                        row.classList.add("red");
+                    }
+                    // set background row color to yellow if a truck will arrive within 30 min
+                    else if (data.thirty[i] == true) {
+                        row.classList.add("yellow");
+                    }
+                    
+                    row.setAttribute('id', id);
+                    row.setAttribute("keep", true);
+                           
+                }
+                // converts html rows to array so we can loop over it
+                // goes through each item in the array
+                // call function and pass in row
+                Array.from(table.rows).forEach((row) => {
+                    // remove the row only after the departure time has passed
+                    if (row.getAttribute("keep") == "false"){
+                        
+                        row.parentNode.removeChild(row);
+                    }
+                 
+                });
+                
+            });
+        }
+            // make an initial data call 
+            gettruckdata();
+            // make a new call every 10 seconds
+            setInterval(gettruckdata, 10000);
+    })();
+    
+</script>
+
+{% endblock %}
